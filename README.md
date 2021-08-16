@@ -1,2 +1,2 @@
 # aprendendo_programar
-Codigos que desenvolvi na faculdade.
+Codigos que desenvolve na faculdade.
